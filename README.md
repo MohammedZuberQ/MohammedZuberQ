@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammedZuberQ
 - 👀 I’m interested in Data Analyst 
 - 🌱 I’m currently learning Big data, Cloud Computing & Data analyst course with Google.
-- 💞️ I’m looking to collaborate on Matlab Project with image recognition or Data analyst work
+- 💞️ I’m looking to collaborate on Data analytics Project.
 - 📫 How to reach me through LinkedIn: https://www.linkedin.com/in/mohammed-zuber-05a983164
 - 📫 How to reach me through email: zubermohammedq@gmail.com
 
